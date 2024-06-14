@@ -1,0 +1,272 @@
+{
+  "version": 1.0,
+  "egoVehicle": {
+    "DataID": 20100007,
+    "UNIQUEID": -1,
+    "m_eobstacleObjType": 0,
+    "initPosition": {
+      "initPositionMode": "Absolute",
+      "pos": {
+        "x": -164.0,
+        "y": -134.8699951171875,
+        "z": 0.36300000548362732,
+        "_x": "-164.000",
+        "_y": "-134.870",
+        "_z": "0.363"
+      },
+      "rot": {
+        "roll": "-0.001",
+        "pitch": "0.305",
+        "yaw": "91.093"
+      },
+      "initLink": "",
+      "initLinkRatio": 0,
+      "gear": 1,
+      "vehicleSaveData": {
+        "velocity": 7.7033894285705173E-07,
+        "inputData": [
+          0,
+          0,
+          0,
+          10000,
+          10000,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "vehicle": {
+          "time": 322.04156494140625,
+          "lastVelocity": {
+            "x": -9.9338024028838845E-08,
+            "y": 8.9364057487273385E-08,
+            "z": 1.5173007739122113E-08
+          },
+          "lastImpactTime": 0.0
+        },
+        "wheels": [
+          {
+            "L": 8.3362139413623026E-10,
+            "Tr": 1.1289259873592528E-06,
+            "contactDepth": 0.049719840288162231,
+            "lastTireForce": {
+              "x": -9.4676606749999337E-06,
+              "y": -3.0424951091845287E-06
+            }
+          },
+          {
+            "L": 7.5685696598881691E-10,
+            "Tr": 1.0633808642523945E-06,
+            "contactDepth": 0.049696952104568481,
+            "lastTireForce": {
+              "x": -1.3840139217791148E-05,
+              "y": -3.0424951091845287E-06
+            }
+          },
+          {
+            "L": -1.8790240088710497E-16,
+            "Tr": 0.0,
+            "contactDepth": 0.035213202238082886,
+            "lastTireForce": {
+              "x": -8.0635927588446066E-06,
+              "y": -0.00044695803080685437
+            }
+          },
+          {
+            "L": -3.5452174372173004E-15,
+            "Tr": 0.0,
+            "contactDepth": 0.035195708274841309,
+            "lastTireForce": {
+              "x": -8.05955733085284E-06,
+              "y": -0.00044660552521236241
+            }
+          }
+        ],
+        "engine": {
+          "L": 39.2699089050293,
+          "Treaction": -28.470832824707031,
+          "rpmLimiterActive": false,
+          "rpmLimiterTime": 0.0,
+          "tcsActivationTime": -1.0
+        },
+        "gearbox": {
+          "L": 0.0116535359993577,
+          "manualGear": 0,
+          "manualRatio": 0.0,
+          "engaged": false,
+          "lastEngagedTime": 0.0,
+          "lastAutoShiftTime": 0.0,
+          "vehicleMoving": false,
+          "gearMode": 1,
+          "automaticGear": 0,
+          "automaticRatio": 3.6649999618530273,
+          "transition": false,
+          "transitionStartedTime": 318.26364135742188,
+          "fromGear": 2,
+          "toGear": 1,
+          "fromRatio": 2.3959999084472656,
+          "toRatio": 3.6649999618530273,
+          "transitionRatio": 3.6649999618530273
+        },
+        "lastVelocity": {
+          "x": -9.9338024028838845E-08,
+          "y": 8.9364057487273385E-08,
+          "z": 1.5173007739122113E-08
+        }
+      }
+    },
+    "currentVelocity": 7.7033894285705173E-07,
+    "desiredVelocityType": 1,
+    "linkValue": 85.0,
+    "customValue": 50.0,
+    "v2vUDPSessionInfo": {
+      "isInit": false,
+      "v2vConfig": {
+        "hostIP": "0.0.0.0",
+        "Port": 5641,
+        "receiveTimeout": 0,
+        "BuffSize": 8196,
+        "surroundVehiclePubTime": 100
+      }
+    },
+    "beforeControlMode": 0,
+    "currentControlMode": 1
+  },
+  "vehicleList": [],
+  "pedestrianList": [],
+  "objectList": [
+    {
+      "DataID": 40100003,
+      "UNIQUEID": 2,
+      "m_eobstacleObjType": 4,
+      "pos": {
+        "x": 170.64300537109375,
+        "y": -103.35500335693359,
+        "z": 0.004999999888241291,
+        "_x": "170.643",
+        "_y": "-103.355",
+        "_z": "0.005"
+      },
+      "rot": {
+        "roll": "0.002",
+        "pitch": "0.010",
+        "yaw": "-88.851"
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "_x": "1.000",
+        "_y": "1.000",
+        "_z": "1.000"
+      },
+      "initPos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "_x": "0.000",
+        "_y": "0.000",
+        "_z": "0.000"
+      },
+      "initRot": {
+        "roll": "0.000",
+        "pitch": "0.000",
+        "yaw": "0.000"
+      },
+      "isWaypointMode": true,
+      "moveSpeed": 0.0,
+      "activeDistance": 0.0,
+      "waypointEventList": []
+    },
+    {
+      "DataID": 40100003,
+      "UNIQUEID": 3,
+      "m_eobstacleObjType": 4,
+      "pos": {
+        "x": 170.63900756835938,
+        "y": -104.99299621582031,
+        "z": 0.004999999888241291,
+        "_x": "170.639",
+        "_y": "-104.993",
+        "_z": "0.005"
+      },
+      "rot": {
+        "roll": "0.003",
+        "pitch": "0.010",
+        "yaw": "-88.853"
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "_x": "1.000",
+        "_y": "1.000",
+        "_z": "1.000"
+      },
+      "initPos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "_x": "0.000",
+        "_y": "0.000",
+        "_z": "0.000"
+      },
+      "initRot": {
+        "roll": "0.000",
+        "pitch": "0.000",
+        "yaw": "0.000"
+      },
+      "isWaypointMode": true,
+      "moveSpeed": 0.0,
+      "activeDistance": 0.0,
+      "waypointEventList": []
+    }
+  ],
+  "spawnPointList": [],
+  "tlList": [
+    {
+      "index": 0,
+      "state": 2,
+      "deltaTime": 24.14080810546875
+    },
+    {
+      "index": 1,
+      "state": 0,
+      "deltaTime": 24.14080810546875
+    },
+    {
+      "index": 2,
+      "state": 0,
+      "deltaTime": 24.14080810546875
+    }
+  ],
+  "mapInfo": {
+    "mapName": "R_KR_PR_SeongnamCityHall",
+    "eastOffset": 0.0,
+    "northOffset": 0.0,
+    "globalCoordinateSystem": "",
+    "scenarioCoordinateSystem": "ENU"
+  },
+  "v2IInfo": {
+    "isAlive": false,
+    "acceptIp": "127.0.0.1",
+    "acceptPort": 5000,
+    "v2vIP": "127.0.0.1"
+  },
+  "pedspawnPointList": [],
+  "aiPedstrianList": [],
+  "shadedAreaList": [],
+  "frictionChangeMaterialList": [],
+  "waypointDataList": [
+    {
+      "pathName": "ObstaclePath - 2",
+      "waypointData": []
+    },
+    {
+      "pathName": "ObstaclePath - 3",
+      "waypointData": []
+    }
+  ]
+}
